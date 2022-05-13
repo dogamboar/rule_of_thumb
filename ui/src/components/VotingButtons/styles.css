@@ -32,4 +32,5 @@
     margin-top: 0;
     font-weight: bold;
     font-size: 12px;
+    white-space: nowrap;
 }
