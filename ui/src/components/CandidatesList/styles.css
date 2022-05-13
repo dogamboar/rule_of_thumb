@@ -1,0 +1,53 @@
+.candidates-section-content{
+    display:block;
+    width: 100%;
+    overflow-x: scroll;
+    margin: 0;
+}
+
+.candidates-section__heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.candidates--grid{
+    display: flex;
+    gap: 1em;
+}
+
+.candidate-item--grid{
+    width: 300px;
+    height: 300px;
+}
+
+.candidate-item--list{
+    margin-bottom: 1em;
+}
+
+.candidates-section__title{
+    margin: 12px 0;
+}
+
+.view-mode__list{
+    width: 100px;
+    height: 32px;
+}
+
+@media all and (min-width: 768px) {
+    .candidates-section-content{
+        height: auto;
+        overflow-x: auto;
+    }
+
+    .candidates--grid{
+        flex-wrap: wrap;
+    }
+
+    .candidate-item--grid{
+        flex: auto;
+        height: auto;
+        margin-bottom: 0.2em;
+    }
+}

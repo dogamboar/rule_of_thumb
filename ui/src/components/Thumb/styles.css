@@ -1,0 +1,36 @@
+.thumb-icon{
+    width: 16px;
+    height: 16px;
+}
+
+.thumb-icon__down{
+    transform: rotate(180deg);
+}
+
+.wrapper-thumb{
+    width: 30px;
+    height: 30px;
+    border: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper-thumb__down{
+    background: #FBBD4A;
+}
+
+.wrapper-thumb__up{
+    background: rgba(60, 187, 180, 0.8);
+}
+
+.thumb-button{
+    border: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.thumb-button__active{
+    border: 2px solid #FFFFFF;
+}

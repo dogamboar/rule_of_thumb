@@ -1,0 +1,49 @@
+[{
+  "id": "ce02583e-d098-11ec-9d64-0242ac120002",
+  "name": "Kanye West",
+  "category": "entertainment",
+  "lastUpdated": "2020-03-10T23:08:57.892Z",
+  "description" : "Born in Atlanta and raised in Chicago, West was first known as a producer for Roc-A-Fella Records in the early 2000s, producing singles for several mainstream artists.",
+  "image" : "/kanye@2x.png"
+},
+{
+  "id": "d686d84a-d098-11ec-9d64-0242ac120002",
+  "name": "Mark Zuckerberg",
+  "category": "business",
+  "lastUpdated": "2021-02-14T23:10:19.134Z",
+  "description" : "Born in White Plains, New York, Zuckerberg attended Harvard University, where he launched the Facebook social networking service from his dormitory room on February 4, 2004.",
+  "image" : "/mark@2x.png"
+},
+{
+  "id": "db85f6a0-d098-11ec-9d64-0242ac120002",
+  "name": "Cristina Fernández de Kirchner",
+  "category": "politics",
+  "lastUpdated": "2020-12-10T23:41:07.120Z",
+  "description" : "Her first term of office started with a conflict with the agricultural sector, and her proposed taxation system was rejected.",
+  "image" : "/cristina@2x.png"
+},
+{
+  "id": "171d193c-3738-4f1b-b7b3-7fa517d451f8",
+  "name": "Malala Yousafzai",
+  "category": "politics",
+  "lastUpdated": "2020-12-10T23:41:07.120Z",
+  "description" : "The daughter of educational activist Ziauddin, Yousafzai was born to a Pashtun family in Mingora, Khyber Pakhtunkhwa, Pakistan. Her family came to run a chain of schools in the region.",
+  "image" : "/malala@2x.png"
+},
+{
+  "id": "79efc49d-0598-4d8c-aab3-5b5563ee9798",
+  "name": "Elon Musk",
+  "category": "business",
+  "lastUpdated": "2020-12-20T23:43:38.041Z",
+  "description" : "In 2002, Musk founded SpaceX, an aerospace manufacturer and space transport services company, of which he is CEO, CTO, and lead designer.",
+  "image" : "/elon@2x.png"
+},
+{
+  "id": "b2bec0ac-824a-4148-a577-2141aa739dd0",
+  "name": "Greta Thunberg",
+  "category": "environment",
+  "lastUpdated": "2021-02-26T23:44:50.326Z",
+  "description" : "Thunberg's activism started after convincing her parents to adopt several lifestyle choices to reduce their own carbon footprint.",
+  "image" : "/greta@2x.png"
+}
+]

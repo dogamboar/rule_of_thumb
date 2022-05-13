@@ -1,0 +1,42 @@
+.progress-bar{
+    opacity: .85;
+    height: 36px;
+    display: flex;
+    flex-flow: row;
+}
+
+.progress-bar__yes{
+    background-color: rgba(60, 187, 180);
+}
+
+.progress-bar__no{
+    background-color: rgba(249, 173, 29);
+}
+
+.voting-result__container{
+    position: relative;
+    width: 100%;
+}
+
+.voting-result{
+    position: absolute;
+    opacity: .85;
+    height: 36px;
+    display: flex;
+    flex-flow: row;
+    font-size: 18px;
+    line-height: 21.6px;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.4em;
+    box-sizing: border-box;
+    top: 0;
+}
+
+.voting-result__no-total{
+    margin-right: 0.4em;
+}
+
+.voting-result__yes-total{
+    margin-left: 0.4em;
+}
